@@ -1,6 +1,8 @@
 Sencha-Touch-2
 ==============
 
+This is forked due to being a requirement to build the Crop Recorder frontend Sencha application. The original owner could remove their project at any time.
+
 The tools required to get Sencha Touch 2 to work with auto complete
 
 Please also take a look at the working example at my blog: http://www.shereef.net/2012/12/11/sencha-touch-2-autocomplete-example-in-aptana-studio/
